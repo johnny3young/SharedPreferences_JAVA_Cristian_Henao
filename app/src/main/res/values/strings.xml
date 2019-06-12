@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedPreferences_JAVA_Cristian_Henao</string>
+    <string name="title_activity_consulta_preferencias">ConsultaPreferencias</string>
+</resources>
